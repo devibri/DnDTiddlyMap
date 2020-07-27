@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+main {
+  display: flex;
+  flex-flow: row wrap;
+}
+h3 {
+  margin-bottom: 1rem;
+}
+button {
+  padding: .25rem;
+}
+header {
+  background: #ebebeb;
+  padding: 2rem;
+  display: block;
+
+}
+ul {
+  list-style-position: inside;
+}
+.character-wrapper {
+  padding: 2rem;
+}
+.links {
+  padding-bottom: 2rem;
+}
+.key {
+  padding-top: 2rem;
+}
